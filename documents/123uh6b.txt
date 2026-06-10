@@ -1,0 +1,97 @@
+======================================================================
+TITLE: Computer Science vs Software Engineering B.S.
+URL: https://www.reddit.com/r/SJSU/comments/123uh6b/computer_science_vs_software_engineering_bs/
+SUBREDDIT: r/SJSU
+DATE: 2023-03-27
+SCORE: 4
+FETCHED COMMENTS (non-bot): 18
+SUBSTANTIVE COMMENTS: 17
+======================================================================
+
+--- POST BODY ---
+Hello, I was wondering what the advantages and disadvantages of each of these degree programs at SJSU are in terms of the overall education, experience with the different departments and colleges, and ultimately employability / job prospects.
+
+I’ve looked at the programs on SJSU’s website and it seems SWE has a strong focus on industry applications and less freedom for exploring other CS electives, while the CS program is more loose and covers a wider range of topics. I know both majors adequately prepare you for the same jobs in software engineering &amp; development, but is one more advantageous or preferred by employers?
+
+Is it worth applying for change of major to CS? I was admitted for SWE this Fall and most likely I’d want to work in software engineering/development but I don’t want to be at a possible disadvantage for not covering the wider topics other than SWE. I don’t care for the extra math and required physics classes of the SWE program but I do think SWE is my preferred career path at the moment. Is it easier/faster to graduate from CS because the program is less narrow and strict, meaning not every student is trying to get into the same rigid sequence of classes like the SWE program?
+
+Other considerations: I didn’t apply to UCSC or UCI but now I’m wondering if it’s worth waiting until Winter or Fall 2024 to go there instead?
+
+TL;DR: Is SJSU CS or SWE the better major overall in experience and future career?
+
+--- COMMENTS ---
+
+[COMMENT | u/Eskandarz03 | score 6]
+SWE and CS are almost the same in terms of major required classes imo swe definitely prepares u more for industry. there's a few cmpe classes which focus on hardware which are a pain and quite difficult. CS would def let u grad faster while your grad will be delayed atleast for a sem w swe since u gotta do a 2 sem long senior project. If u can, i would switch but if not its not a big deal. imo swe definitely does a better job preparing u for industry and u can take any cs class as an elective. I dont think employers would prefer one over the other either
+
+    [REPLY | u/pavluv | score 1]
+    Which CMPE hardware classes are SWE majors required to take? What about them is difficult?
+
+    [REPLY | u/Business-Reward-3274 | score 2]
+    Is it better if I just major in Data Science than SWE? Or will it impact between internships and opportunities in the future compared to swe and cs majors
+
+        [REPLY | u/pavluv | score 1]
+        If you want to work in data science then it probably makes more sense to major in it rather than SWE? The DS program is offered by the CS department, so there’s a lot of overlap in classes between [DS](https://catalog.sjsu.edu/preview_program.php?catoid=13&amp;poid=8134&amp;returnto=4973) and [SWE](https://catalog.sjsu.edu/preview_program.php?catoid=12&amp;poid=3911). I’m assuming from an educational standpoint, it seems viable to switch between either career with either degree, supplemented with extra learning to cover the missing topics. Hopefully someone with industry experience can chime in about this
+
+            [REPLY | u/Business-Reward-3274 | score 2]
+            My first choice was CS(Before I realized how competitive it is lol). But I got in for Data Science to transfer in the Fall. But in the future I’m hoping to be around the SWE Field. Will it affect what I would learn compared to cs students and opportunities
+
+                [REPLY | u/pavluv | score 1]
+                I'm curious about that as well. I do know we can apply for a change of major to [CS](https://www.sjsu.edu/cs/students/undergrad-students/change-of-major.php) or [SWE](https://sjsu.edu/bsse/about-bsse/change-of-major.php).
+
+[COMMENT | u/theSJSUsquirrel | score 3]
+There’s no difference between the programs for employment preferences, From my experience not a single one really knew what the difference was (or cared). They’re much more similar than you think, and classes are about as easy to get into for both. Classes/content overlap is heavy for both. The departments are quite close and you have access to both faculty for research, classes, clubs, etc. Its really more about how you make use of your time and resources.
+
+
+To address your physics question, Computer Science doesn’t require any less science than SWE, CS just lets you have the option of choosing between Physics, Chemistry, and a couple others. 
+
+
+You should definitely not waste more semesters trying to get into CS or going to a worse program like UCSC's CS. You could be working earlier.
+
+
+Choosing CS or SWE won’t have a noticeable impact on your career, how quickly you learn to build projects and get internships will. There are even SJSU Applied Math majors that minor in CS that have better SWE career outcomes because they focused on this.
+
+Congrats on your acceptance and best of luck deciding.
+
+    [REPLY | u/pavluv | score 1]
+    Solid advice. What makes UCSC’s program worse?
+
+        [REPLY | u/theSJSUsquirrel | score 1]
+        SJSU's is much better known, especially to employers. SJSU class sizes are typically smaller, the professors are very accessible to students and prepare them for industry well. There’s more support and resources from tutoring and a stronger campus culture with various programming related clubs. Engineering is a big thing here, and being in Silicon Valley makes for a lot of easily accessible tech events.
+        
+         UCSC's isn’t too bad but it seems to be playing catch-up. They actually pull a lot of high schoolers from the same areas as SJSU (San Jose/East Bay) but they are mostly the rejects from SJSU's or other's CS programs, or they’re a student that’s a little more interested in living away from family in a beach town than being near jobs/internships. Definitely a more laid back campus. Just my observation
+
+    [REPLY | u/dantedy22 | score 0]
+    ucsc program is better.
+
+        [REPLY | u/pavluv | score 1]
+        How so?
+
+[COMMENT | u/MateTheNate | score 2]
+CS is under Cosac so the course requirements are less restrictive.   
+SE has a set track of courses to take and like 6 upper div elective credits while CS has a few mandatory major courses plus 14 elective credits. If you want to have more freedom in that area and explore something that interests you, go for CS.    
+College of engineering also has more science and math courses required for major prep while cosac is less restrictive in that area but has a PE requirement in the GEs.
+
+In terms of career outcomes they are about even. Looking at the [SJSU career outcomes report](https://www.sjsu.edu/careercenter/docs/career-outcomes-reports/SJSU%2020-21%20Salary%20Survey%20Report_FINAL.pdf) the median for SE is $101,600 while the median for CS is $101,015. CS had a higher max at $135,000 vs $118,700 for SE but its fairly equal overall.
+
+[COMMENT | u/garlickyqt | score 1]
+Lmao I got into SJSU cs with so much room to spare but I got waitlisted at ucsc for cs.
+
+    [REPLY | u/theSJSUsquirrel | score 1]
+    Seems like you got lucky
+
+[COMMENT | u/garlickyqt | score 1]
+How bruh I didn't get into ucsc wit a 4.3 gpa
+
+    [REPLY | u/theSJSUsquirrel | score 1]
+    UC's use essays to learn about your experiences. That’s a great gpa but perhaps your essays just weren’t what they were looking for
+
+[COMMENT | u/FloorTeefs | score 1]
+What did u end up deciding?
+
+Joining SJSU?
+
+[COMMENT | u/FloorTeefs | score 1]
+Hi, what did u end up deciding?
+
+Joining SJSU?

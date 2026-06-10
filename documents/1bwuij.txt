@@ -1,0 +1,62 @@
+======================================================================
+TITLE: Could use some advice on which course to take from Computer Science / Computer Engineering
+URL: https://www.reddit.com/r/SJSU/comments/1bwuij/could_use_some_advice_on_which_course_to_take/
+SUBREDDIT: r/SJSU
+DATE: 2013-04-08
+SCORE: 4
+FETCHED COMMENTS (non-bot): 8
+SUBSTANTIVE COMMENTS: 8
+======================================================================
+
+--- POST BODY ---
+Hi!
+
+So me and two friends are exchange students going to SJSU for a semester, and we're stuck on which course to take as our 5th course. 
+
+So far we have:  
+- CS130  
+- CS 146  
+- CMPE 138  
+- CMPE 142  
+
+
+CS146, CMPE138 and CMPE142 are courses we have to take in the agreement with our school. Besides that we're planning on taking CS130 to have an easy subject, since it'll be a lot of work anyway, and english is our second language. 
+
+However we need one more (to get a total of 15 units). 
+So far we've looked at:  
+CmpE 102 - Embedded programmer (assembler)  
+CmpE 130 - Advanced Algorithm Design  
+CmpE 131/133 - Software Engineering (not certain about which one we can take here, we have to check with our professors)  
+CmpE 132 - Information Technology (cryptology)  
+CmpE 187 - Software Quality Testing  
+
+
+So, we're wondering if anyone has any input on these courses. Are the professors/lectures are good, and how's the workload. As i said english is our second language, and going on an exchange from Norway we don't want to be completely buried in work the entire semester.
+
+--- COMMENTS ---
+
+[COMMENT | u/TheWill2Live | score 2]
+I think you mean CMPE not CE for the last few classes. For CMPE 131 if you get Perry, you'll be doing tons of work but learning alot. If you get Yu then you will learn nothing but not do much work. CMPE 130 with Potika is great if you've just taken CMPE 126 the previous semester as it is basically 126 part 2. There are 3 projects within the semester but as long as you are current on your C++ you should be fine.
+
+    [REPLY | u/Frokostblanding | score 1]
+    Fixed the links now. 
+    
+    There's really not to much info ont he homepage, so greatly appreciate the help!
+
+    [REPLY | u/zapdos | score 1]
+    what is the difference between computer science, software engineering, and computer engineering majors at SJSU?
+
+        [REPLY | u/TheWill2Live | score 1]
+        Comp Sci is more theoretical (focused on the design of algorithms). Soft Engi is more practical (writing the actual software and making sure you have all the correct structures in place). Comp Engi is a blend of Soft Engi and Electrical Engi (basically 50% software 50% hardware). Easist to hardest goes Comp Sci, Soft Engi, then Comp Engi.
+
+            [REPLY | u/zapdos | score 2]
+            cool thanks, i got in for computer science fall2013, probably going to do it
+
+                [REPLY | u/TheWill2Live | score 1]
+                Congrats. I had a good friend graduate from there in 4 years, get a job with Cisco straight out of college, and now pulls in 80 grand a year starting salary as a Software Engineer. Work hard buddy.
+
+[COMMENT | u/Riotblade | score 3]
+I can only speak for CmpE187.  J. Gao always teaches that course and there's a lot of information involved.  However, a lot of it is straight forward.  The only work you'll be doing is for the final project, which is done in groups.  I think our group's report was something along the lines of 150 pages, mostly filled with test cases.
+
+    [REPLY | u/estidee | score 1]
+    DONT TAKE 187 WITH GAO

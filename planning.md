@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+**What SJSU students actually say about CS / Software Engineering professors and courses.** The corpus captures crowd-sourced, candid student experience from r/SJSU: which professors to take or avoid, how hard specific courses are (CS 46A/46B, 146, 147/149, 151, 157A), realistic workload and grading, course sequencing, and which classes best fill GE areas. This knowledge is valuable precisely because it is *absent from official channels*: the catalog and registrar list prerequisites and units but never say a course is "hard but curved" or that a named professor "writes his own RMP reviews"; advisors are cautious and won't name-and-shame instructors; and Rate My Professor entries are sparse, gamed, or deleted (one whole thread documents negative reviews being removed). Reddit is where the unfiltered, attributable signal lives.
+
+In this project a **"document" = one Reddit thread** — the original post plus the comments we actually fetched for it — written to a single `documents/<post_id>.txt` file with a metadata header (title, full URL, date, score, fetched/substantive comment counts), the post body, and the comments delimited and indented to preserve parent→reply nesting.
+
 ---
 
 ## Documents
@@ -18,18 +22,25 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+All sources are real r/SJSU threads collected via the PullPush.io Reddit archive (one thread = one `documents/<post_id>.txt`). 15 curated threads, each with ≥5 substantive (non-bot, non-deleted, non-noise) fetched comments, spanning courses, professors, difficulty, workload, and GE selection.
+
+| # | Source (file) | Description | URL |
+|---|---------------|-------------|-----|
+| 1 | `kighem.txt` | "Spartan's Ultimate Guide, Part 2" — CS classes & professors to take vs avoid (Suneuy Kim, Patra, Kong Li, Olga Kovaleva), plus a math-minor path | https://www.reddit.com/r/SJSU/comments/kighem/the_spartans_ultimate_guide_to_sjsu_part_2/ |
+| 2 | `2ljx6r.txt` | Adel Atta — collection of negative Rate My Professor reviews that were removed; professor-reputation case study | https://www.reddit.com/r/SJSU/comments/2ljx6r/adel_atta_negative_reviews_removed_from_rate_my/ |
+| 3 | `2u15xl.txt` | CS majors rank the upper-division courses by difficulty (146/147/149/151; mentions Atta, Dr. Fai Yeung) | https://www.reddit.com/r/SJSU/comments/2u15xl/cs_majors_how_would_you_rank_the_upper_division/ |
+| 4 | `3wjyr5.txt` | "CS 47 or CS 151?" — course-selection + workload advice (Patra, Kim, Yazdankhah) | https://www.reddit.com/r/SJSU/comments/3wjyr5/cs_47_or_cs_151/ |
+| 5 | `123uh6b.txt` | Computer Science vs Software Engineering B.S. — program comparison and tradeoffs | https://www.reddit.com/r/SJSU/comments/123uh6b/computer_science_vs_software_engineering_bs/ |
+| 6 | `3xmqve.txt` | Difference between CS 46B and CS 146 — content depth, projects, professors (Shaverdian, Mortezaie) | https://www.reddit.com/r/SJSU/comments/3xmqve/computer_science_difference_between_cs_46b_and_cs/ |
+| 7 | `37amxl.txt` | Taking 4 CS major courses in one semester — workload reality (147/149 "hard but curved"; Mak for 149) | https://www.reddit.com/r/SJSU/comments/37amxl/comp_sci_majors_4_major_courses_in_one_semester/ |
+| 8 | `btavob.txt` | CS 146 for a transfer student with C++/Python (Java prereq, CS 49J, prereq enforcement) | https://www.reddit.com/r/SJSU/comments/btavob/cs_transfer_from_c_school_about_cs_146/ |
+| 9 | `94eap5.txt` | CS 157A (databases) with Ahmed Ezzat — survival tips, grading, comparison to Suneuy Kim | https://www.reddit.com/r/SJSU/comments/94eap5/i_am_taking_cs_157a_with_professor_ahmed_ezzat/ |
+| 10 | `5rm577.txt` | Best CS electives / deep courses (CS 108 Game Design, CS 155 Algorithms, CS 185c) | https://www.reddit.com/r/SJSU/comments/5rm577/best_cs_electivesdeep_course/ |
+| 11 | `1bwuij.txt` | Which CS/CmpE course to take — includes a blunt "DON'T TAKE 187 WITH GAO" warning | https://www.reddit.com/r/SJSU/comments/1bwuij/could_use_some_advice_on_which_course_to_take/ |
+| 12 | `he58kf.txt` | Frosh fall-semester CS schedule advice (Math 42 workload, GE area sequencing) | https://www.reddit.com/r/SJSU/comments/he58kf/frosh_courses_for_this_fall_semestercs_major/ |
+| 13 | `c81p6a.txt` | "Things I Wish Someone Told Me Freshman Year (Engineering)" — broad CS/eng advice (36 comments) | https://www.reddit.com/r/SJSU/comments/c81p6a/things_i_wish_someone_told_me_freshman_year/ |
+| 14 | `2e4b40.txt` | New-student tips — courses, professors, study habits, workload | https://www.reddit.com/r/SJSU/comments/2e4b40/with_school_less_than_a_week_away_here_are_some/ |
+| 15 | `nzwxu4.txt` | Best classes to fill GE areas (Professor Do for AAS33A/B, Chem 30A vs Chem 1A) — GE subtopic | https://www.reddit.com/r/SJSU/comments/nzwxu4/best_class_to_fulfill_d2_or_d3us123_and_best/ |
 
 ---
 

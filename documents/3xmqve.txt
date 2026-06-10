@@ -1,0 +1,76 @@
+======================================================================
+TITLE: [Computer Science] Difference between CS 46B and CS 146?
+URL: https://www.reddit.com/r/SJSU/comments/3xmqve/computer_science_difference_between_cs_46b_and_cs/
+SUBREDDIT: r/SJSU
+DATE: 2015-12-20
+SCORE: 4
+FETCHED COMMENTS (non-bot): 17
+SUBSTANTIVE COMMENTS: 16
+======================================================================
+
+--- POST BODY ---
+I am taking computer science courses for learning and interest only, not for a degree. I finished the CS46B equivalent at a community college. While looking over the syllabus for CS46B and CS146, I noticed that they are strikingly similar -- I couldn't see any difference whatsoever in the course content. Now I am wondering whether or not I should shell out $900 for the open university option for CS 146.
+
+For those who have taken both, what are the differences between CS 46B and CS 146? Will I learn any new material in 146 that was not covered in 46B? Does it simply rehash the same material but at a much harder level then in CS 46B, which will lead me to learn it more deeply?
+
+--- COMMENTS ---
+
+[COMMENT | u/IamNotWrong- | score 2]
+CS146 is more on the science side of computer science. Meaning, more math etc. is involved. I also think that more data structures are covered. I do think that instead of $900 you should just buy a book instead.
+
+    [REPLY | u/pythonhalp | score 1]
+    Is the book I used for 46B sufficient, or does the 146 use a much harder book?
+
+        [REPLY | u/IamNotWrong- | score 1]
+        The 146 one is much harder, but in my opinion a very hard book to understand because they focus more on the mathematical side than the implementation/code side.
+        This is the one we used: http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_3?ie=UTF8&amp;qid=1450742857&amp;sr=8-3&amp;keywords=data+structures
+
+            [REPLY | u/UmbraVeil | score 1]
+            The book you linked CLRS is definitely the standard here. OP would be better off picking up a copy of this book and referencing YouTube and Stack Overflow when he/she runs into trouble. I wouldn't waste the money/time on a course like this. School only gives you a glimpse of the full breadth of knowledge.
+            
+            If you have the discipline to do so, you'll gain so much more through self-studying.
+
+[COMMENT | u/h2opologod94 | score 2]
+I haven't taken 46B, but I just took 146 this past term. Here are my instructor's materials if you're interested in looking them over to see what's covered: http://www.cs.sjsu.edu/~shaverdian/
+
+    [REPLY | u/pythonhalp | score 1]
+    Thanks!
+
+    [REPLY | u/679throwaway | score 1]
+    how was 146 for you?
+    
+    i did really poorly in 46B but im going to review the hell out of the material over the break. If i do that, do you think ill be OK to take 146 in the spring? Just trying to get a feel of how difficult the course is
+
+        [REPLY | u/h2opologod94 | score 1]
+        I didn't think it was too difficult. It's analysis of data structures and algorithms, so you'll learn about binary search trees, graphs, heaps, etc. and how to manipulate and sort all those structures. At least in my class we had five large projects where we had to solve some given problem using the structures and algorithms we learned in class. Overall, it's not too difficult if you really take the time to understand how things work - not just copying and pasting code until it compiles and runs.
+
+            [REPLY | u/NoSinging | score 1]
+            Were your projects in groups or individual?
+
+                [REPLY | u/h2opologod94 | score 1]
+                In Shaverdian's class she encouraged working with a partner for the projects, but did not force anyone to do so. If you're a lone wolf type of programmer then it'd be fine. At the same time, I would definitely recommend working in a group because programming is often a team effort in the real world.
+
+                    [REPLY | u/NoSinging | score 1]
+                    Do you know if 146 classes tend to give out projects? I'm about to take Mortezaie so I'm just wondering if I will get projects too. (and I hope they are in groups haha).
+
+                        [REPLY | u/h2opologod94 | score 1]
+                        No idea... I would think that projects are a pretty critical part of a class like this, but I can only speak for Shaverdian. Email the teacher - they're usually pretty responsive.
+
+[COMMENT | u/Zeliss | score 1]
+46B is pretty much just another Java course. 146 is one of the most important courses of your degree. Though they may appear to cover the same concepts, there is quite a bit more depth and breadth to everything 146 covers.
+
+The assumption is that you know Java, and you will spend your time purely learning to understand data structures, algorithms, and algorithmic complexity. And that's not just, "oh, there are two nested loops, it's n^2". You'll be doing things like solving recurrence relations for recursive algorithms which divide a problem set. You'll also learn a lot more about different tree types, sorting algorithms, graphs, and graph algorithms.
+
+    [REPLY | u/pythonhalp | score 1]
+    I haven't ever taken Calculus. Will I be screwed for 146?
+
+        [REPLY | u/Zeliss | score 1]
+        No, I can't remember there being much Calculus in it. Maybe one or two integrations in the whole course.
+
+            [REPLY | u/pythonhalp | score 1]
+            Will I be fine with only algebra and trigonometry?
+
+[COMMENT | u/bhargavat | score 1]
+They are very similar because 46B is "Introduction to Data Structures" and 146 is "Data Structures", which goes more in depth of the data structures learned in 46B as well as introduce a few newer ones. 
+
+46B is also a bit more focused on the programming aspect than 146, which I liked.

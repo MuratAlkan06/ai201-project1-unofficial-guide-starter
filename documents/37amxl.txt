@@ -1,0 +1,109 @@
+======================================================================
+TITLE: Comp Sci majors! 4 major courses in one semester?
+URL: https://www.reddit.com/r/SJSU/comments/37amxl/comp_sci_majors_4_major_courses_in_one_semester/
+SUBREDDIT: r/SJSU
+DATE: 2015-05-26
+SCORE: 3
+FETCHED COMMENTS (non-bot): 19
+SUBSTANTIVE COMMENTS: 19
+======================================================================
+
+--- POST BODY ---
+For 2 semesters I plan on taking 4 CS courses each
+
+Junior Spring:CS 149, CS 147, CS 151, CS 158A (1 major elective with 3 major upper divisions)
+
+Senior Fall: CS166 CS160 CS157A CS158B (3 major electives and one major upper division)
+
+Is this in any way realistic or do-able? I'm trying to graduate in at least 4.5 years that is if I don't study abroad for a semester but that is a different problem
+
+**I can't mix around these two semesters of courses due to some of them being offered on one semester or the other, prerequisites, and because I now realized I made a regrettable decision of finishing up all my lower division GEs already**
+
+--- COMMENTS ---
+
+[COMMENT | u/UmbraVeil | score 3]
+I'm sure it is possible... Have you attempted similar course loads before?
+
+Try not to get too hung up on a timeline... This isn't a race. If you focus on the goal you'll miss out on the details and come out with an expensive piece of paper and possibly a bad taste in your mouth.
+
+Work within your abilities and give yourself time to absorb the material. If you have doubt's I wouldn't attempt it. If you fail one of these courses it'll be that much harder to get into it again and cost you additional time.
+
+    [REPLY | u/zzapplezz | score 1]
+    You're right, there's little reason to be worrying in the big picture since I can't even guarantee it will be smooth sailing. But the reason I'm caught up about this is because I was trying to aim for the cybersecurity certificate along with the degree. Though, I could really just say F it and take a bunch of random major electives instead for smooth sailing. Do you know anything about the certificates though?
+
+        [REPLY | u/UmbraVeil | score 1]
+        Not personally. The one that I discovered recently is natural language processing in the linguistics department though which may interest you.
+
+[COMMENT | u/SatsuiNoHadou | score 1]
+I see that you're missing CS 146, 152, and 154 from that list. Did you take those already?
+
+4 classes is definitely doable if you're serious about it
+
+    [REPLY | u/zzapplezz | score 1]
+    I've taken 146 already, I was planning to take 152 and 154 after Junior year, but of course if needed I can swap them with non-conflicting courses from my planned Junior year wherever possible. Thanks for looking out for that.
+
+[COMMENT | u/nomilkforsanta | score 1]
+In *any* major, 4 upper division classes is *very* double. Just make sure school is your number 1 priority and you keep yourself healthy.
+
+edit: If you plan on going to graduate school, this will be a good test. Typically you take between 8-14 units a semester, or 20 if you go the professional route (medical, dental, vet).
+
+    [REPLY | u/zzapplezz | score 2]
+    It is definitely so, I guess in the end it boils down to how well I can handle myself in terms of time management and how prepared I am.
+
+        [REPLY | u/nomilkforsanta | score 1]
+        If you are really worried, get the textbooks (and syllabi) now and read the first few chapters of each. I did that for o-chem and it really helped me out.
+
+[COMMENT | u/zzapplezz | score 1]
+Just curious though, what were you guys/girls experience with 100W? How was it?
+
+    [REPLY | u/acn9 | score 1]
+    Tedious af. Shit ton of writing.
+
+        [REPLY | u/zzapplezz | score 1]
+        Would you say it's ideal or okay to pair it with two UD majors and 1 GE then? Don't know why I just feel like whatever semester I have 100W with, I'll be suffering all the other classes.
+
+            [REPLY | u/acn9 | score 1]
+            As long as you try to finish each 100w assignment the same day it's assigned, it won't really mess with your other classes. Time management is the most important in your case. Are you currently interning/working?
+
+                [REPLY | u/zzapplezz | score 1]
+                I wish I was but no I am not. I guess time management won't be a problem in that case. This semester I slacked off until I got an F on a test, winded up grinding every course work on the assigned day or in advance, turned out wonderful. What would be an example of an assignment?
+
+                    [REPLY | u/acn9 | score 1]
+                    At the time I was taking it, we had to attend some symposium greentalk lecture once a week and write a report regarding the topic...alongside other reports regarding clean energy or something. An example would be something like "Write a report in e-mail format to the government explaining the importance of an eco-friendly high speed railway system". This was about 2 years ago. The assignments nowadays could be different.
+
+        [REPLY | u/SatsuiNoHadou | score 1]
+        Great, I'm taking it next semester and I freakin' hate writing. I'm not bad at it, but I freakin' hate it.
+        
+        What did you have to write about?
+
+            [REPLY | u/acn9 | score 1]
+            All I remember is writing a lot about clean and green energy LOL. The biggest tip I could give you for 100w is to try to complete as much of an assignment as you can the day it is assigned. Procrastination hurts in that class.
+
+[COMMENT | u/nectarinesex | score 1]
+swap 149/147 with an elective and you'll be fine (theyre both pretty awful)
+
+all cs courses are offered every semester now
+
+i took 5 cs + phil134 one semester and turned out fine
+
+and take kim for 157a
+
+    [REPLY | u/zzapplezz | score 1]
+    Really now? That's crazy, you must have put in an immense amount of focus on academics that semester but nonetheless great job. It seems so since I noticed CS47 is offered this Fall (at least only one section). I considered taking Kim, glad to know someone else can reinforce that. You mean swapping either 149 or 147 away from each other right?
+
+        [REPLY | u/nectarinesex | score 1]
+        i mean swap 149 or 147 with an easy elective to lighten the load
+        
+        the thing is with 149/147 is that from my own experience/friends, its hard but curved to a reasonable point 
+        
+        i would suggest mak for 149, the person i took 147 with is no longer at sjsu
+        
+        phil 134 is online and its barely any work
+        
+        100w took more effort/time than any other cs class, it's almost retarded (all menial/tedious work)
+        
+        some electives are easier than others (108 comes to mind) but try to get the most from your electives (stuff you actually want to learn)
+        
+        gl
+        
+        oh 1 more thing if u suck at basic C, brush up on it, helps a ton in 149

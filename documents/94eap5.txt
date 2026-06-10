@@ -1,0 +1,50 @@
+======================================================================
+TITLE: I am taking CS 157A with professor Ahmed Ezzat. Any tips to survive?
+URL: https://www.reddit.com/r/SJSU/comments/94eap5/i_am_taking_cs_157a_with_professor_ahmed_ezzat/
+SUBREDDIT: r/SJSU
+DATE: 2018-08-03
+SCORE: 2
+FETCHED COMMENTS (non-bot): 6
+SUBSTANTIVE COMMENTS: 6
+======================================================================
+
+--- POST BODY ---
+Hi everyone, I believe this is a good time to learn more survival tips for the next semester. I am taking professor Ezzat for CS 157A next semester. As a Math major, I didn't have a choice on whom I can take, and this is the only section the chair can put me in. But anyway, I just want to ask how you feel about his homework, tests, exams, projects. Were they hard or a lot? Is he an easy grader? Most people I got to ask weren't positive about him. Personally, I usually had a "ready to self-study" mentality in CS classes, so as long as he provides decent learning resources and/or doesn't assign insane amount of work, I am perfectly fine with him.
+
+So if you have some insights, please leave them here. I strongly value. Thank you so much.
+
+--- COMMENTS ---
+
+[COMMENT | u/SomeTechNoob | score 6]
+You will be guaranteed to not learn anything from his class except for the fact that he wants you to learn from his class.
+
+^^^I'm ^^^being ^^^100% ^^^serious ^^^lmao
+
+------------------
+
+Took him for CS149 but all the stories about him are accurate and the same.  Pretty boring powerpoint lecturer, has an attitude, gives pop quizzes when less students show up, and yet it's still generally easy to "pass" his class.
+
+Had a graduate student as a grader.  For my class we worked in groups for homework and did a single submission.  Then we met with the grader who quizzed us on what the homework was about.  Our grader was pretty chill, but Ezzat has final say on what homework grade you get.
+
+Overall I didn't hate him but definitely not my lecturer of choice.
+
+    [REPLY | u/fantasticsky_hng | score 1]
+    Thank you so much. I will see how things go for the first 2 weeks. I also signed up for a similar online class at Foothill for backup.
+    
+    EDIT: Also, I forgot to ask. How would you rate your SQL proficiency after taking CS 157A? Not necessarily, he made your skill better, but whether the course gives many opportunities to learn/sharpen SQL. And, how was the project. Was it a decent one to put on rersume. Thanks a lot.
+
+        [REPLY | u/SomeTechNoob | score 1]
+        Haven't taken CS157A yet!  I wanted to, but with Kim.  Couldn't get Kim so I've opted for other classes.
+
+            [REPLY | u/fantasticsky_hng | score 1]
+            I see. Thank you, anyway. I wanted to take with Kim, to be honest. But as I said, I didn't have a choice. Enjoy her class, though. And don't forget to pray for me :(
+
+[COMMENT | u/sjsuthrowaway | score 4]
+The work won't be difficult so you shouldn't have any trouble passing. 
+
+The hard part will be having to stomach him constantly bragging about his past, and snapping at students for the smallest of questions.
+
+The guy is a cartoon character.
+
+    [REPLY | u/fantasticsky_hng | score 1]
+    Thank you so much. Then I think it won't be too bad. It makes sense to me why he likes to brag, as I googled and his industry profile was great. Did you learn a lot about SQL in CS 157A, either he made you or it was the class' nature? How would you rate your SQL proficiency after CS 157A? Also, how did you think about the project? Thank you.

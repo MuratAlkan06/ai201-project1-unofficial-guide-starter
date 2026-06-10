@@ -1,0 +1,200 @@
+======================================================================
+TITLE: Things I Wish Someone Told Me Freshman Year (Engineering)
+URL: https://www.reddit.com/r/SJSU/comments/c81p6a/things_i_wish_someone_told_me_freshman_year/
+SUBREDDIT: r/SJSU
+DATE: 2019-07-01
+SCORE: 59
+FETCHED COMMENTS (non-bot): 36
+SUBSTANTIVE COMMENTS: 36
+======================================================================
+
+--- POST BODY ---
+- Don't listen to your advisors (could not stress this enough)
+
+- Listen to upper class men, ask them for their grad roadmaps and plans, what went wrong, what classes to take, professors to avoid. 
+Do this as early as u can so that you don't get fucked over
+
+- hang out with upper class men in your respective club rooms a LOT because they have old tests that will save your life more than once. 
+- Your GPA Freshman Year is the most important thing to secure bc it doesn't budge during JR and Sr year. This was the single handedly most important tip I wish I knew bc you will get fucked on Calc 1-3, and the wonderful Physics 50-1-2. Pull an A in english, comm, all that shit. Go party but don't be irresponsible. If you fuck up the university will make your life harder. 
+- Remember you have the rest of your life to have fun but GPA is built now and it lasts forever
+
+- Don't fail any classes. This is how ppl fuck up and stick around for half a decade
+
+- Study with PEOPLE and NEVER by yourself. Get ppl's number in your class the first day and make sure you're all on the same page. 
+
+- Good luck and don't mess up and don't ever quit
+
+edit: more tips
+
+- if a professor has good ratings on rate my professor, it usually means he doesn’t fail a lot of people or easy to pass
+
+- all your professors salaries can be looked up on californiatransparent.com (this ones for fun)
+
+--- COMMENTS ---
+
+[COMMENT | u/BladeHawkX | score 5]
+Was there any reason why I shouldn't listen to advisors? I never ended up going to them but it was recommended that I go to them from others. What was your experience with them?
+
+    [REPLY | u/enjoylifedude | score 6]
+    They’re often times more clueless than you are so its a luck of the draw type thing and theres no consequences for them if they fuck u over bc they have PhD’s and tenure and good salary (californiatransparent.com) xD; obviously it depends on the department and person. find out from upperclassmen who’s good and who’s not
+    
+    I was on a 3.5 year plan and ended up 4.5 years and didn’t even fail any classes bc of a supposed pre req situation that ended up not even affecting me. 
+    
+    to add on that note if some class says it needs a pre req try signing up for it anyways bc the system is stupid and never updated by administration, ESPECIALLY UPPER DIVS
+
+        [REPLY | u/dwkaiz | score -1]
+        &gt; to add on that note if some class says it needs a pre req try signing up for it anyways bc the system is stupid and never updated by administration, ESPECIALLY UPPER DIVS
+        
+        I'd caution against this because the Registrar DOES do manual audits throughout the semester and WILL drop you from a class if you're caught not having fulfilled the pre-req.
+
+            [REPLY | u/enjoylifedude | score 6]
+            Lmao the engineering building is so swamped with ppl who cant graduate that the last thing incompetent admins are worried about are people being able to take their classes. SJSU having this level of agency is laughable. just register and dont say shit and ur good
+
+                [REPLY | u/JCJPark | score 2]
+                I failed a prereq for senior project by 1%, should i stay enrolled for the senior project?
+
+                    [REPLY | u/enjoylifedude | score 3]
+                    the way I see it if it was actually a pre req they wouldn’t have let u sign up until u actually passed. You might have to retake the course but the senior proj professor prob wont drop u.
+
+                        [REPLY | u/JCJPark | score 1]
+                        Alright thanks for your input, I think I'll just be upfront with the snr proj prof and hope he lets me stay
+
+                            [REPLY | u/enjoylifedude | score 2]
+                            can u let me know how that goes
+
+                                [REPLY | u/JCJPark | score 1]
+                                yeah for sure, I'll comment back on here when the semester starts
+
+    [REPLY | u/tednugget | score 4]
+    Probably would be phrased better as "Your advisor isn't correct 100% of the time."  
+    
+    I'd just imagine someone might be recommended to take a class that isn't top priority or they make a larger mistake which costs you a semester's worth of time.  It would be beyond retarded to say to never listen or see your advisors though, just be sure to go in there with a general plan and then double check the info you get.
+
+    [REPLY | u/Sad_on_Solder | score 3]
+    Advisors: ok Timmy to graduate in 4 years you gotta do 17 units a semester and I'm only gonna recommend rapey GEs like AMS instead of easier ones like AAS
+    
+    
+    Timmy: Sure thing, I trust you because my performance is in your best interest.
+    
+    *Timmy fails due to overloading and stress*
+    
+    Advisor: *Surprised Pikachu face*
+    
+     OMG why did you take so many classes?
+     I only recommend speedy and unreasonable 4 year plans because the university is forcing me! 
+    
+    
+    University: We got too many people not graduating in time because of failed classes. Advisors, you really gotta sell the 4-year plan. 
+    
+    
+    It's a cycle of cancer my friends.
+
+[COMMENT | u/ak00n | score 9]
+GPA? I do not have an engineering job. The only time I have seen people care about this is right after college, about a year or two after it means nothing
+
+    [REPLY | u/enjoylifedude | score 2]
+    Shoot high and start higher, why make those two years any harder on yourself
+
+    [REPLY | u/mli168 | score 1]
+    So... are you saying that these engineering GRADUATE can just ignore their GPA just because “it doesn’t matter later on” ? Then how are they gonna get their first job?
+    
+    Only having great GPA can’t get you jobs, but it’s not easy to get great jobs without a somewhat decent GPA (3.2+)
+    
+    It’s important to have a somewhat balanced portfolio. Do some extra curricular like FSAE and try to get the highest gpa possible. Not to mention that Grad school admission committee won’t be easy on your application if you have &lt; 3.0
+
+        [REPLY | u/enjoylifedude | score 1]
+        Yea GPA is mostly for if you decide to do something later on regarding more schooling. It's part of a safety net. 2.6's tell grad schools u were at too many tequila tuesdays rather than working at home finishing ur lab reports. 
+        
+        easiest way to get a good gpa is freshman year when u can ace poly sci and history of art so that when you struggle in Thermodynamics or Signal Processing it balances out. 
+        
+        Fun fact you can see: [the average gpa fall 2014 for freshman enrolled in Electrical Engineering was 0.7 
+        ](http://iea.sjsu.edu/Programs/ProgRev/Enrollment.cfm?request=class_level&amp;col=ENGR)
+
+    [REPLY | u/elefish92 | score 8]
+    While GPA will be meaningless as time goes on with more experience in your field, your GPA will open more opportunities during college than a lower one. This is crucial for graduate school/competitive internships at prestigious companies the most in general.
+    
+    There are a lot of things that could be done if you have a low GPA though.
+
+[COMMENT | u/the_spookiest_ | score 15]
+“Stick around for half a decade”
+
+(Meanwhile, my 28 year old ass looks around nervously as I signed up for a 4 years industrial design program)...
+
+    [REPLY | u/KindlyBlacksmith | score 6]
+    Meanwhile as a transfer student that didn't fail any class but have to take a fuck ton of classes so I'm here for 5.5 years.
+
+        [REPLY | u/the_spookiest_ | score 1]
+        I’m just happy the design program is structured in such a way that every “graduating class” has access to the classes you need because the program for a BSID is 4 years regardless of transfer status. 60+ go in, 25 are given a seat beyond the first year, those 25 go through all the classes for the next 3 years to get a BS. 
+        Every year, there is enough classes/times allotted to the amount of students in the program. 
+        
+        Ahhh.
+        
+        School. I came so late.
+
+[COMMENT | u/legzisdead | score 3]
+What are your reasons for not studying by yourself?
+
+    [REPLY | u/Sad_on_Solder | score 2]
+    For the first few classes as a freshman you can't really tell who is smart and who is not. By the time you get to upper divs, the dummys get weeded out and you can assume everyone is pretty smart. It's important to begin group studying then because there's a good chance you will learn something and they will learn something as well. A nice bonus is they might have old tests as study material. Even if you think you're too smart to learn anything new, tutoring some smart ppl will most likely introduce an easier way to reinforce/remember things that you can't forget in case you choke on a test.
+
+        [REPLY | u/enjoylifedude | score 1]
+        perfect response. there are some classes u just need to figure out what the professor wants and u cant do this alone. trying to learn concepts is a wasted effort sometimes and this is the sad truth especially in hard ass majors like Electrical or Computer
+        
+        I got a B in an early upper division that I never went to lecture more than twice for. then there are kids who failed it twice and got dropped from the major bc the professor was a dick.
+        
+        it’s about winning and passing; all the real learning happens on the job later. school is just about setting u up to learn later
+
+[COMMENT | u/JtReso | score 6]
+Isn't it transparentcalifornia.com and not californiatransparent.com?
+
+    [REPLY | u/eggutartu | score 5]
+    You're right. I searched up the other website and there's ads/malware.
+
+[COMMENT | u/Alex__P | score 5]
+They studying with people depends. 
+I think I do better by myself than with others, not saying studying with with others is a bad idea bc it does help a lot
+
+    [REPLY | u/VeronicasEx | score 1]
+    I think when a lot of people say studying with other people they mean reviewing.  I study on my own, but review content and practice problems with other people who also studied on their own.  It helps ensure we all got proper coverage of the exam material.
+
+[COMMENT | u/redditnathaniel | score 2]
+And you can maintain your sanity if you have somebody to suffer with
+
+    [REPLY | u/Sad_on_Solder | score 2]
+    so true idgaf what grade I get as long as its close to my homies
+
+[COMMENT | u/neft14 | score 1]
+To all my civil engineering freshmen
+
+https://civilengineeringhu.wixsite.com/civilengineeringhub
+
+(use responsibility)
+
+[COMMENT | u/oValhalla | score 1]
+Another obvious thing is to not miss class.
+
+    [REPLY | u/enjoylifedude | score 1]
+    this totally depends. In class quizzes? your ass better be there every time. Lectures notes that are online + no homework? Won't ever catch me there. Failed 0 classes doing this u just gotta know what the professor expects
+
+    [REPLY | u/VeronicasEx | score 1]
+    Really depends on the class, your discipline, and life schedule.  Last semester I only went to about 40% of my lectures and I got above a 3.9 in the hardest semester of one of the hardest majors at SJSU.  
+    
+    If you realize a professor's class is entirely based on a textbook, you should just read the book, as there is a non-zero probability of either the professor misspeaking or you misunderstanding during a lecture.  
+    
+    Google quiz questions or long sentences from the slides after class and see if (s)he's basing his/her syllabus on another school's course.  If (s)he is, that other school's professor's online lecture notes are probably more useful than the lecture note's you'd take from a second hand source.
+    
+    If the textbook is bad, google "best x textbook reddit" and see what comes up.  For my discrete math course, I used two books, neither of which were the class textbook.  Ended up getting perfect scores on what I thought were easy exams (I'm no genius), purely because the treatment of the subject was so much better in the sources I was going off of.  I took a look at my friend's copy of the class text and was amazed at how confusing it was, and I already knew the material!
+    
+    Now all of this is extra af, and more work than going to class, but I've found these strategies help my grades more than attending every lecture.  It's also nice to realize you don't have to leave for school early, or you can spend some extra time at the gym, or can go home to cook dinner early because a particular lecture isn't worth the time it takes.  That 40% I mentioned earlier is misleading, because it is really 100% attendance for a worthwhile lecture, and 25% attendance for the 4 non-worthwhile lectures (only showing when things are due in class like quizzes, exams, projects, etc.)
+
+[COMMENT | u/the_spookiest_ | score 1]
+Interesting, I dropped one course (it was a computer course) that was a pre req for SFSU but not SJSU, I called SJSU and they said it’s fine, as long as I maintain my GPA and have the 4 classes and my major pre reqs done,
+
+[COMMENT | u/the_spookiest_ | score 1]
+There is a big difference. Your GPA changes with a failed course. That’s all they care for really
+
+[COMMENT | u/jrhalbom | score 3]
+I would add don't be the lazy freeloading group member - nobody likes them and they will all eventually end up together.
+
+    [REPLY | u/enjoylifedude | score 3]
+    A couple of times I was that kid so I would just bring ppl food or coffee and they ended up doing the work for me lmao. gotta offer something if you can't contribute

@@ -1,0 +1,68 @@
+======================================================================
+TITLE: CS majors, how would you rank the upper division major courses in terms of difficulty?
+URL: https://www.reddit.com/r/SJSU/comments/2u15xl/cs_majors_how_would_you_rank_the_upper_division/
+SUBREDDIT: r/SJSU
+DATE: 2015-01-29
+SCORE: 10
+FETCHED COMMENTS (non-bot): 8
+SUBSTANTIVE COMMENTS: 8
+======================================================================
+
+--- POST BODY ---
+I'm trying to plan out my future classes but I want to split them up so I don't accidentally take a bunch of hard CS classes in one semester.
+
+In terms of difficulty, how would you rate the following? 1 being the hardest of the 7 and 7 being the easiest of the 7
+
+ - CS 146: Data Structures and Algorithms
+ - CS 147: Computer Architecture
+ - CS 149: Operating Systems
+ - CS 151: Object Oriented Design
+ - CS 152: Programming Paradigms
+ - CS 154: Formal Language and Computability
+ - CS 160: Software Engineering
+
+Any recommendations on which teachers to avoid at all costs?
+
+I took 147 last semester with Professor Patra. He was an awesome teacher, but the projects were a lot of work. Currently taking 146 and 151 this semester
+
+--- COMMENTS ---
+
+[COMMENT | u/ClearlyUndefined | score 2]
+I took 151 and 146 last semester.  151 was fairly easy coming from the java prereqs.  It just goes into how to design a project before you get into the coding.  146 was difficult at times, I heard a lot of people were worried about passing by the end of the semester, but if you study you'll be fine.  Contributing so I can follow this thread.
+
+    [REPLY | u/SatsuiNoHadou | score 1]
+    Did you have 151 with Professor Kim?
+    
+    I'm actually really scared of 146. I know it's one of the gatekeeper classes lol
+
+        [REPLY | u/Durbo | score 2]
+        I heard 146 got easier last semester compared to previous semesters. Mostly because Taylor didn't teach it last semester.
+
+        [REPLY | u/ClearlyUndefined | score 1]
+        Yes I did. She's a great instructor, I'm sure you'll enjoy the class.  Who do you have for 146?
+
+            [REPLY | u/SatsuiNoHadou | score 1]
+            I'm taking 146 this semester with Dr. Fai Yeung
+            
+            The cutoff for a B+ is a 82% lol. Gonna be a tough semester!
+
+[COMMENT | u/vader32 | score 2]
+146 - In my opinion was pretty tough(teacher is also a factor here) 
+
+147 - Was pretty easy but I took it with Atta(disclaimer)
+
+149- Is pretty fun and interesting but you have to like low level design, and messing with C (my homeworks were in C)
+
+151- Is actually pretty easy if you feel confident in your java. 
+
+152- Is actually pretty challenging and requires some effort
+
+154 - taking it now
+
+160 - Depends on the teacher I took it with Mak and you just build a sizable software project.
+
+    [REPLY | u/SatsuiNoHadou | score 1]
+    Thanks for this!
+
+[COMMENT | u/DarknessRain | score 1]
+I'm in 146 right now, they opened a new one because there was so many people trying to add. Only problem is they didn't tell the professor he had the class until two days ago so we all showed up to a locked classroom haha! But the CS dept head came over and gave everyone codes so at least we got that.

@@ -1,0 +1,153 @@
+======================================================================
+TITLE: The Spartan's Ultimate Guide to SJSU, Part 2: General Advice Picking Classes + Majoring In Computer Science (Classes and Professors To Take, Avoid, and Picking Up a Math Minor Along The Way)
+URL: https://www.reddit.com/r/SJSU/comments/kighem/the_spartans_ultimate_guide_to_sjsu_part_2/
+SUBREDDIT: r/SJSU
+DATE: 2020-12-22
+SCORE: 47
+FETCHED COMMENTS (non-bot): 15
+SUBSTANTIVE COMMENTS: 15
+======================================================================
+
+--- POST BODY ---
+This is part 2 of my guide that I wish someone wrote before I came to SJSU as a CS major, rather than posting "should I take this class / professor" before every semester on this subreddit. [You can find Part 1: Is It Honestly Worth It here](https://www.reddit.com/r/SJSU/comments/kgbmqy/the_spartans_ultimate_guide_to_sjsu_part_1_is_it/)  that talks about if going to SJSU as a freshman in this COVID climate is worth it.
+
+# Picking Your Classes
+
+My first piece of advice is to **figure out it from Year 0**. It will take a lot of time to plan it out but at least you won't make the same mistake as me, taking extra classes that you don't need. For example taking Calculus 2 fills your requirement for GE: B4 Mathematical Concepts and your CS major classes requirement CSCI MATH 31 at the same time. However if you take another class that ONLY fills GE: B4 before you take Calc 2, then you just created more work for yourself. 
+
+Another example is that you have to take CS/PHIL 134 as a mandatory class for your CS upper divs, and it also fills (SJSU Studies) GE: Area V. If you don't do your research before and take a different Area V class before your mandatory 134 class, you just took 2 different classes for 2 requirements, when 1 class could have satisfied 2 requirements. 
+
+Take as many classes as you can that fill multiple requirements in both GEs and your major. Start with your mandatory classes and see what areas they fill in your GEs. However sometimes classes state that they can only fill one or the other, so **do your research.** 
+
+# Math Minor
+
+I don't know how significant it is to have a math minor, but you might as well pick it up if you want along the way. You need 18 units comprised of Math 30 + 31, 3 upper division electives, and one other elective (upper or lower). For a CS degree it is mandatory to take  Math 30, Math 31, (Math 32, 142, or 161a), Math 42, and Math 129a. **That's already 5 of the required 6.** I took 142 from the 3 choices and 161a as an elective. You can take any other math class you want as long as it fills all the requirements. 
+
+# Classes + Professors To Take and Avoid
+
+**THESE ARE MY PERSONAL BELIEFS IM GONNA BE 100% HONEST WITH MY EXPERIENCE.** My goal was to take the least work intensive classes with the best professors possible. I was juggling a lot at the same time such as internships, RAing, social + greek life, etc.   
+Work smart, not hard. And if you're working smart, understand that professors make or break the class, they can be the difference between getting an A or failing the class. That brings me to the biggest piece of advice I have: 
+
+**Don't let school get in the way of your education.** After you get your first job, your GPA is insignificant. Prioritize getting internships before getting a 4.0. That's how you're going to get multiple job offers out of college. I had 6 internships by the time I finished SJSU. It is doable, learn on your own because honestly your GPA at SJSU isn't going to get your foot into any doors of good companies alone. 
+
+Some of the professors I took aren't teaching anymore but I'll do my best to cover the electives and professors. For mandatory classes refer to the professors. 
+
+**Math**
+
+Math 142 (Combinatorics) I took with professor Yan Zhang. Take Math 42 before this if you want to make it easier on yourself. I tried really hard in this class, but it was difficult AF. If you get a 20% on his final you'll get a B in the class, that's how hard it was. You'll have 5 problems of hw each week and spend 10 hours doing them. Only take it if you can afford to, otherwise stick with calc 3 or stats. 
+
+Math 31 (Calc 2) with Tatiana Shubin was my first math class at SJSU. I don't remember too much but the class was fine and she was a good teacher. 
+
+I took the rest of my math classes Math 161A, Math 129A, and Math 42 (Stats, Linear Algebra, and Discrete Math) with Olga Kovaleva. The subjects are hard, but doable if you put in a lot of effort. You can't really avoid them since they're mandatory anyways. Her tests are hard and the courses are work intensive, with weekly quizzes and optional hw depending on the course. I would avoid if there are better options that you know of. 
+
+**Computer Science**
+
+**AVOID, AVOID, AND AVOID:**   
+**Suneuy Kim.** Avoid any classes that are taught by her. You will not learn anything in class and be tested on her delusional standards of what she thinks she taught. Worst teacher I've ever come across.
+
+**Patra.** He's a smart person, but he's not a good teacher. His tests are way too hard and the concepts he teaches are way too hard to understand. Avoid at all costs, especially for 47. We were building so much in MIPS, and never touched it in 147 with Andreopoulos. 
+
+**Kathleen O'Brien** who was my first CS teacher. I don't know if she still teaches but if she does RUN. She'll make you want to switch majors even though the class was easy. 
+
+**Kong Li:** He taught Operating Systems. I would avoid, he knows his stuff but the class was difficult and I didn't know what was going on half the time because it's C. He was nice though and cut us a lot of slack. I wouldn't avoid, but he wouldn't be my first choice.
+
+&amp;#x200B;
+
+**Take!**
+
+**William Andreopoulos**: Chill dude, tests were multiple choice, and homework was graded very easily. You learn from the book a lot of the time. I would 100% take vs Patra for 47 and 147. 
+
+**Katerina Potika**: Super nice and understanding. I took her over David Taylor for data structures because I heard she was way easier. I suggest you do the same as well if given that choice. 
+
+**Philip Heller**: Took him for one of the lower division classes, great attitude and funny guy in general. I know he teaches bioinformatics as well, I wouldn't take that class as an elective because it seemed difficult, but if you're into biology go for it. 
+
+**Thomas Austin:** Took for an upper div class, it was a really hard class but he made it a lot better. Great teacher and made me actually want to come to class. 
+
+**Ahmad Yazdankhah:** This man saved my life. I was in such a bad place this semester, he understood, passed me even though I probably didn't deserve it. I did learn all the material the last week and fixed my teams final project, so maybe I did. In hindsight the class was easy I just didn't have the will to do it. A professor that actually cared, wow. 
+
+**Fabio Di Troia:** Take him whenever you can. Like I said the teacher makes or breaks the class. He makes it. Every. Single. Time. 
+
+**Debra Caires:** She's the only person that teaches CS 100W (writing workshop), but still worth mentioning. She has the potential to teach you a lot but if you already read /r/cscareerquestions, all you'll get from this class is a lot of busy work and a portfolio project / page you'll never use. That's not her fault though, it's the class curriculum. She's a very nice person and very helpful when it comes to career fairs (I saw her at every single one). 
+
+**James Morgan:** Great dude, he teaches CS 108 (Game studies). Great class, learned a lot, and super easy if you do the work. 
+
+**Jahan Ghofraniha:** Absolute GOAT. Teaches you both technical stuff and also hands on your project, (software project) giving you guidance and control. 
+
+&amp;#x200B;
+
+**If I didn't mention a professor they are automatically mid tier. Do your research on rate my professor, reddit, coursehero, etc...** 
+
+&amp;#x200B;
+
+# Electives To Take:
+
+**Pick your electives based on your teachers! But I recommend:** 
+
+* CS 108 - Game design! You'll work on creating fun games with a group if you want. Even though its a CS class you can choose to be the artist for your group as well if you want to take a break from programming. Busy work, but engaging! 
+* CS 122 - Advanced python programming. Learning another programming language is actually better for you than taking an easy elective, but it's your choice. This is one of the only classes I would take because learning it is worth it. Otherwise you'll leave SJSU knowing only Java.
+* Math 142 or Math 161A (you'll have to take both if you want to avoid Calc 3). 
+* CS 156 - AI is cool, take with fabio if possible. Another class I would take because learning it is worth it. 
+* CS 157A - If you can find a good teacher for it (NOT KIM). It also helps you transition into the mandatory requirement for one upper level class. SQL is useful for interviews, but not really bc of no coding database programs. It could be a lot of work depending on the teacher. 
+* CS 190I - Take it when you have a summer internship. Free 3 units during the summer. You do have to pay a grand for it though because of tuition. 
+* CS 161 - Great class. You get to build a resume project with a team while learning about the project development lifecycle. 
+* CS 166 and 174 I took these at the same time with Fabio, so they blended together, easy As if you put in some work. 
+* CS 159 - Learning parallel processing is worth it to impress during interviews, but I wouldn't go out of my way bc it's not easy.
+
+&amp;#x200B;
+
+# Good Luck and I hope this helped!
+
+--- COMMENTS ---
+
+[COMMENT | u/AlterBlitz | score 1]
+Any suggestions for Masters? Is it similar? I'm planning to apply soon
+
+    [REPLY | u/ShadowSlick | score 3]
+    No clue but my advice and personal opinion is that you don’t need a masters, get a really good job instead of going back to school for 2 years. You’ll be getting more money switching jobs every 2 years than getting a masters! Up to you though
+
+[COMMENT | u/ShiRuVii | score 5]
+Now I wish someone with a Psych major to do the same thing :")
+
+    [REPLY | u/ShadowSlick | score 6]
+    Looking forward to your guide when you graduate :)
+
+        [REPLY | u/Paparazzi99 | score 2]
+        Which year &amp; semester did you take Patra's class?
+
+    [REPLY | u/Kuruttta-Kyoken | score 1]
+    or materials engineering
+
+[COMMENT | u/kimogjong | score 2]
+🐐🐐🐐🐐thanks!!
+
+[COMMENT | u/gogeta1202 | score 3]
+Dude any advice on internships? I am a sophomore and am having a super hard time getting one for this summer.
+
+    [REPLY | u/ShadowSlick | score 6]
+    You need to apply to at least 100 -200 internships. It’s competitive and most people already got offers by now so you need to catch up. That’ll give you a 5-10% rate of invitations to a coding test based on your previous experience. Then you need to brush up on your leetcode / hackerrank skills and practice because that’s what they use to test you. After that they’ll invite you to another round if you pass. You need to know how to solve their coding problems live. 
+    
+    You’re only a sophomore so they won’t take you too seriously so apply to as many as you can. If you want one for his summer you gotta start applying to as many as possible ASAP because the window is closing. 
+    
+    I know it’s tempting to get one at a big name company but look at other small companies for now just for the experience also. Use your LinkedIn connections (make one if you don’t have one) Goodluck! 
+    
+    If you can’t find an internship, spend your summer building projects on github to showcase for your resume.
+
+        [REPLY | u/gogeta1202 | score 1]
+        Man, thank you so much for this!
+
+            [REPLY | u/Creqm | score 1]
+            how has it gone for you? I’m applying to SJSU for next year. 
+            
+            anything helps!
+
+[COMMENT | u/richkappa | score 1]
+Hey just wanna ask how easy was CS 174 with Fabio I might register for his class for next semester but it will be in-person so im worried that I will take awhile to readjust in-person environment and get left behind in learning
+
+    [REPLY | u/ShadowSlick | score 1]
+    You’ll be fine I took 3 CS and math classes that semester his class is easier than most bc he is a good professor
+
+[COMMENT | u/starry_18 | score 1]
+What class did you take Thomas Austin for? I’m debating whether I should take him for 152 over Rula Khayrallah.
+
+    [REPLY | u/ShadowSlick | score 1]
+    Programming paradigms. I don’t know Rula but the class is difficult because its a type of programming you’ve probably never seen before. Check rate my professor if she has good reviews, if not take Thomas

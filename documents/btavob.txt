@@ -1,0 +1,31 @@
+======================================================================
+TITLE: CS transfer from C++ school ? about CS 146
+URL: https://www.reddit.com/r/SJSU/comments/btavob/cs_transfer_from_c_school_about_cs_146/
+SUBREDDIT: r/SJSU
+DATE: 2019-05-26
+SCORE: 10
+FETCHED COMMENTS (non-bot): 5
+SUBSTANTIVE COMMENTS: 5
+======================================================================
+
+--- POST BODY ---
+Hello everyone I am an incoming computer science transfer with only experience in C++ / python. I am set to finally meet a counselor and sign up for classes on 6/14. I would love to go straight into CS 146 but not having a background in Java I would have to prove I think at least that, I have equivalent knowledge in the language.  Are you expected to be able to code basic data structures you learned in the lower division data structures class? I dont want to have to wait until next spring to take 146 as it is a pre req to so many upper division courses, but i dont want to fail or have to drop a class im not prepared for. I did codecademy Java course and as predicted was super easy. I ordered some OOP and data structure books for more difficult exercises.  Anyone come from a C++ school and just gone straight into CS 146?  Thank you.
+
+--- COMMENTS ---
+
+[COMMENT | u/KindlyBlacksmith | score 3]
+Just learn some basic Java over the summer. C++ and Java are pretty similar languages beside some key differences you'll be fine.
+
+    [REPLY | u/rltw_275 | score 1]
+    Thanks for the advice everyone. After some more research it seems I can still graduate in 4 semesters if I take 49j the first semester. Bummed Fabio is filled for 147 as a veteran I'm used to registering for classes first, not last as a transfer lol. I'm thinking about waiting a semester to take 147 so I could have a better teacher and taking a r or s class instead in the fall along with 100w and Phil 134.
+
+[COMMENT | u/Derkle | score 2]
+I was told to take 49J and decided I wasn’t going to waste a semester just for that. Ended up taking 146 and had no problem after learning it a bit before classes started. You might have to do a bit of extra work if the class goes into something you’re unfamiliar with.
+
+    [REPLY | u/KoolUsername69 | score 1]
+    Wait, so if you never took a Java class in your community college you can still apply directly to CS 146 from your first semester?
+
+        [REPLY | u/Derkle | score 1]
+        That prerequisite is only checked by professors. You can still sign up for CS 146 since they have no way of knowing what your classes were taught in.
+        
+        A word of warning though, David Taylor (and other professors) might do a more thorough check when you sign up for his class. When I had him for CS 155 there was someone attempting to add his 146 class and he was asking him about Java experience and even looked up the student’s CC course to see if it said it was taught in Java.

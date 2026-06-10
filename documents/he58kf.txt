@@ -1,0 +1,71 @@
+======================================================================
+TITLE: Frosh Courses for this Fall Semester(CS major)
+URL: https://www.reddit.com/r/SJSU/comments/he58kf/frosh_courses_for_this_fall_semestercs_major/
+SUBREDDIT: r/SJSU
+DATE: 2020-06-23
+SCORE: 2
+FETCHED COMMENTS (non-bot): 17
+SUBSTANTIVE COMMENTS: 17
+======================================================================
+
+--- POST BODY ---
+Ok, so my suggested courses are CS46A with Qi Yang, Math42-70(Discrete Math) with Ferdinand Rivera, and Sci 2 with Sonja Lilienthal. I know Sci 2 is a class that's unnecessarily hard to fulfill the General Ed Area E and pushed on frosh so I plan on dropping it, but what should I replace it with(easiest class to fulfill Area E)? I'm thinking Stress Management or Money Matters or Understanding Health sounds easy. Also, do you recommend anything else for my classes? Should I take more classes, tips about professors, what my plan should be with CS, what can I do to succeed, etc.
+
+--- COMMENTS ---
+
+[COMMENT | u/leftovercroc | score 1]
+not a cs mjor but i took biol 54 for area E this past spring with poffenroth and it was an easy A plus she’s a super cool instructor!
+
+edit: its called “human understanding” and is completely online
+
+    [REPLY | u/lihing1994 | score 1]
+    I can confirmed this. I took Bio10 &amp; Bio54 with her. I think her grading is based on if you submit the assignment or not. I don’t miss any point for any assignment even though I B.S some of them.
+
+[COMMENT | u/Biochemisthuy | score 1]
+I took RELS 99 and loved the class. However, I'll admit most other students may not enjoy it as much because of the unexciting lecture format, amount of reading material, and the 10-page comparison paper. However, I've heard that KIN 69 is an easy course, as well as ECDO 4 and NUFS 9. BIOL 54 is fairly easy too, but there is some biology involved, which might be a turn-off for some students.
+
+In terms of recommending other classes, are you not currently planning to take other science electives to fulfill the [BSCS requirements](https://www.sjsu.edu/cs/practicalities/science-requirements/index.html)?
+
+    [REPLY | u/Ajha7 | score 1]
+    Ok wow this that 5/9 unit credits needed for BSCS sounds complicated, I guess I’ll just take SCI 2 if I need it for the science requirement.
+
+        [REPLY | u/Biochemisthuy | score 1]
+        SCI 2 doesn't actually fulfill your science requirements because it's an Area E GE course. CS majors still need to take "5 units of course work in science that counts toward a science degree" (biology, chemistry, and/or physics) as well as 9 additional units to fulfill Areas B1, B2, B3, and R. The link above should lay out all the possible routes/classes you can take to complete these requirements.
+
+[COMMENT | u/marcella78 | score 1]
+If you can take any general ed classes with Daniel Murphy, I'd recommend him. He's the best professor on campus. I've taken my upper S and V classes with him and wished I could've taken more. He teaches quite a few lower and upper GE classes so I'd look him up and see which ones fit.
+
+[COMMENT | u/Sad_on_Solder | score 1]
+Take 1 more GE class like AAS 33A which covers D2,D3, and all of US Intuitions after you take the second class AAS 33B. Compared to AMS, AAS is stupid easy. I had no hw, never read the books, and got easy A's in both classes. Exams are untimed (basically like a hw assignment) online essay prompts with multiple different choices you can choose from. I would just use the index of the textbooks to get citation pages and launder them in my essays, mainly using class notes for content. Even if you took APUSH, this class is still worth it due to how many additional GEs you get!
+
+And also don't take science 2, its some weird cult shit that orientation ppl keep pushing.
+
+    [REPLY | u/Ajha7 | score 1]
+    Awesome, signing up for AAS now thanks:) I did take APUSH*
+
+        [REPLY | u/Sad_on_Solder | score 1]
+        Also why aren't you enrolled in a calc class? Just curious
+
+            [REPLY | u/Ajha7 | score 1]
+            I took calc in highschool
+
+                [REPLY | u/Sad_on_Solder | score 1]
+                All the calcs? Calc 1-3?
+
+                    [REPLY | u/Ajha7 | score 2]
+                    Calc AB( got a 4) and Calc BC(scores yet to comeback)
+
+[COMMENT | u/tiblack9 | score 1]
+u fucked up taking sci2 buddy
+
+    [REPLY | u/Ajha7 | score 1]
+    I can drop it lol it’s in suggested classes; does it fulfill any other req apart from GE Area E? The separate GE conditions are confusing, like Area R,  V,S, and US Institutions, I can’t find clear designations for classes which fulfill those reqs.
+
+        [REPLY | u/Biochemisthuy | score 1]
+        SCI 2 only fulfills the Area E for GE courses. Area R, S, V, and Z are all [SJSU Studies](http://info.sjsu.edu/static/schedules/sjstudies.html) courses. Not all majors are required to complete Area Z, but I believe Areas R, S, and V are generally required by all majors - some majors even have specific courses you need to take to fulfill them. The US requirements can be fulfilled by [American Institutions Courses](http://info.sjsu.edu/static/catalog/american.html). Some of them cover only 1 US requirement (US1, US2, or US3), a combination of requirements (US23), or even all 3 requirements (US123).
+
+[COMMENT | u/SafeTheme | score 2]
+Sci2 was literally the easiest class my freshman year. I don't know where you for that information, but I would definitely recommend taking it with Lilenthal. We barely had any work and a few weeks into the semester, most of the class doesn't even show up. Easy A.
+
+[COMMENT | u/Gremlinbuddy | score 1]
+Those classes look like a good start to a fine schedule. Math42 will probably take up the most of your time unless you’re brand new to coding, in which case 46A might be a bit challenging. I took Sci2 with Lilienthal this past fall and it was the easiest class you’ll ever take. Think of 200 CoS students in a big lecture hall. The only drag is that the class has more meeting times than others (1 extra weekly session) but other than that it’s extremely easy to get an A. For CS try to plan ahead in semesters and look at when certain classes are offered so you can time your roadmap with that. Also joining coding clubs like CS Club or SCE are helpful as well.

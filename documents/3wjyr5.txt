@@ -1,0 +1,127 @@
+======================================================================
+TITLE: CS 47 or CS 151?
+URL: https://www.reddit.com/r/SJSU/comments/3wjyr5/cs_47_or_cs_151/
+SUBREDDIT: r/SJSU
+DATE: 2015-12-12
+SCORE: 4
+FETCHED COMMENTS (non-bot): 23
+SUBSTANTIVE COMMENTS: 23
+======================================================================
+
+--- POST BODY ---
+I'm struggling to choose between these two classes. I would love to take both but my current schedule would be quite difficult. I also want to have some free time put into CS 146. I plan to work 20 hours on top of school as well. 
+
+As a Comp Sci major I am current enrolled in:
+
+* CS146 (Mortezaie)
+* CS151 (Kim)
+* Geol 4L (1 unit lab)
+* CS 72 (Foothill Online Class)
+* CS 47 (Patra)
+
+Any tips on what to do? The main classes I won't budge on are CS72 and CS 146.
+
+--- COMMENTS ---
+
+[COMMENT | u/IamNotWrong- | score 2]
+CS 151 requires a lot of work. I'd go with CS47.
+
+    [REPLY | u/Digital_Skyline | score 1]
+    Taking it next semester won't hinder me at all? Everyone seems to insinuate that you should take 146 &amp; 151
+
+        [REPLY | u/IamNotWrong- | score 1]
+        Well, you can also take cs47 over the summer instead. I guess they will offer it. I took it last summer and it's an easy class.
+
+            [REPLY | u/Digital_Skyline | score 1]
+            Is it all online or at SJSU?
+
+                [REPLY | u/IamNotWrong- | score 1]
+                You have to go twice a week.
+
+        [REPLY | u/UmbraVeil | score 0]
+        47 is actually supposed to be taken with 46B. It's listed as a co-requisite I believe, along with math42. 
+        
+        These courses open up a lot of upper division classes for you.
+
+            [REPLY | u/Digital_Skyline | score 1]
+            That's no longer the case anymore! Now 46B is a pre-req for 47
+
+                [REPLY | u/UmbraVeil | score 1]
+                Ah, more changes. Probably wise. 47 is fairly difficult and requires a good foundation of concepts learned in 46B. Honestly taking 146 and 49C isn't a bad idea either. C helps bridge the gap to understanding assembly and Patra had us create trivial data structures and sorting algorithms in MIPS.
+
+                    [REPLY | u/Digital_Skyline | score 1]
+                    I actually just finished up 49C (w/ 46B) this semester!
+                    
+                    What did you think of Patra and how was the workload?
+
+                        [REPLY | u/UmbraVeil | score 1]
+                        I have a mixed opinion. On one hand, he's a new teacher, has taught both 47 and 147 so he knows how the material should overlap. Plus he has industry experience so he knows what is relevant for students to know. He loves teaching makes himself available for additional assistance...
+                        
+                        But, because there must be a but... His understanding of the English language introduces a lot of confusion. His lectures are a bit passionless at times and you'll get more out of reading his lecture slides on your own rather than attending lecture yourself. The syllabus isn't clearly laid out and you can feel a bit lost at times too. I like to have a timeline clearly laid out at the start of the semester.
+                        
+                        But, if you put in the work early, really dive deep into YouTube to expand on topics that may seem abstract... Like Karnaugh Maps or something... It'll make this course relatively painless.
+                        
+                        His assignments and project are fair and actually really taught me a lot. Assuming he doesn't lose his passion I think he has potential to get better, and he seems open to criticism.
+                        
+                        I've definitely had much worse and would take him again.
+                        
+                        Edit: This is type of class that you should read the material before going to class. 
+                        
+                        And as an aside, the content Patra emphasizes actually paid off for me. I was offered a part-time position and because the job requires some reverse engineering, I ended up using what I learned in Patras 47 on a whiteboard coding session during the interview.
+
+                            [REPLY | u/Digital_Skyline | score 1]
+                            That is very good to know! I think I will actually push 47 back a semester. Though it does seem very helpful, I'd rather save a critical thinking class like that for over summer break if possible.
+
+                                [REPLY | u/UmbraVeil | score 1]
+                                If you want a leg up, 47 and 147 use [this book](http://www.amazon.com/gp/aw/d/B00G4N7I2K/ref=pd_aw_sim_351_2?ie=UTF8&amp;dpID=51kYgYyzwiL&amp;dpSrc=sims&amp;preST=_AC_UL100_SR100%2C100_&amp;refRID=15CXYP356F761KD306AX), which is good book I might add. And uses MIPS Assembly with the MARS IDE.
+                                
+                                47 &amp; 147 both use MIPS but 147 veers towards Verilog as it goes more in depth on digital design.
+                                
+                                This is pretty much the setup that Patra/Jia have at the moment. I know in the past some students have learned x86. Patra seems to be taking over the hardware classes for the CS major though so this is likely to be the norm for now.
+
+    [REPLY | u/FATPAYCHECKS | score 1]
+    What professor did you have? I just finished my CS151 class this semester with Yazdankhah and the work load was was close to nonexistent
+
+        [REPLY | u/UmbraVeil | score 1]
+        I'm finishing Kim right now.
+        
+        Lectures are slow and homework is plentiful. A lot of work for little return.
+
+[COMMENT | u/marksmanonthego | score 3]
+I would take 151 just because Kim is teaching it. Kim is one of the best CS professors at SJSU IMO. Can't say anything about Patra since I never had him/her.
+
+    [REPLY | u/UmbraVeil | score -1]
+    Have to disagree. But each to their own.
+    
+    I have an A in the class. I just honestly cannot stand her and find the course itself to be an absolute waste of time. I was hoping we'd spend more time with the design process and patterns as that was actually new content. But most of the time we focused on material that was taught in 46B.
+
+        [REPLY | u/spike021 | score 5]
+        The issue isn't Kim.
+        
+        The issue is that CS151 and most of the classes below it have a curriculum built off of Horstmann materials and as such must conform to his book(s).
+        
+        (I think we've had this conversation here before, in fact)
+
+[COMMENT | u/shedang | score 0]
+Just took foothill online computer science 72 class and it was horrible. The teacher wouldn't put up the correct source code so you couldn't learn from your mistakes. If you couldn't figure out the first assignment you we're fucked for the next 4 because they built off the first. I highly advise not to go with foothill. Maybe it was only that teacher tho. Bita Mazaloon
+
+    [REPLY | u/Digital_Skyline | score 1]
+    Thank you for the heads up. CS 72 as in Intro to Linux/Unix? I am taking it with Meade next semester at Foothill and everyone said she is great
+
+[COMMENT | u/AngryNerdBerd | score 2]
+CS72 from foothill can't transfer to SJSU if you were planning on doing that. Mission college's CS 72 transfers though. It's also online and I'm taking it over winter.
+
+    [REPLY | u/Digital_Skyline | score 1]
+    Two different advisors said it does as well as two other students that took it in the past.
+
+        [REPLY | u/AngryNerdBerd | score 1]
+        Oh never knew that since
+        
+        http://info.sjsu.edu/web-dbgen/artic/FOOTHILL/course-to-course.html
+        
+        and http://www.assist.org/web-assist/report.do?agreement=aa&amp;reportPath=REPORT_2&amp;reportScript=Rep2.pl&amp;event=19&amp;dir=1&amp;sia=FOOTHILL&amp;ria=SJSU&amp;ia=FOOTHILL&amp;oia=SJSU&amp;aay=15-16&amp;ay=15-16&amp;dora=COMPSCI
+        
+        said it doesn't
+
+[COMMENT | u/bhargavat | score 1]
+Course numbers below 100 are considered lower-division so take CS 47.

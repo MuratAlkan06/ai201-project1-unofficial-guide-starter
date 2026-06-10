@@ -1,0 +1,42 @@
+======================================================================
+TITLE: Best CS Electives/Deep Course?
+URL: https://www.reddit.com/r/SJSU/comments/5rm577/best_cs_electivesdeep_course/
+SUBREDDIT: r/SJSU
+DATE: 2017-02-02
+SCORE: 3
+FETCHED COMMENTS (non-bot): 7
+SUBSTANTIVE COMMENTS: 7
+======================================================================
+
+--- POST BODY ---
+What are the best/most interesting/most relevant/not too difficult cs electives at SJSU?  So far the only elective I've taken is CS 108 Game Design with James Morgan which was a fucking blast 10/10.  Currently I'm taking 155 Algorithms which seems like a relevant topic for CS.  Any other suggestions?  Apparently there's a more in depth game design course 134 which I might want to take, and CS 156 AI seems like an awesome topic too.
+
+Also for the deep course, which is the best one?  The software project 161 is the most efficient one to take but I have no idea what's expected of me from the class.  If that's not the one, then I was thinking of the Computer Graphics 116A,B or the Database 157A,B.
+
+Thanks in advance!
+
+--- COMMENTS ---
+
+[COMMENT | u/nosotros_road_sodium | score 2]
+Also I recommend [CS 166 Information Security](http://info.sjsu.edu/web-dbgen/catalog/courses/CS166.html), the only CS course I took.
+
+    [REPLY | u/APatheticPoetic | score 2]
+    Oh man I can't believe I didn't see that one!  Definitely something up my alley, thanks.
+
+    [REPLY | u/besthotdog | score 1]
+    how was the class?
+
+[COMMENT | u/rayjing | score 2]
+Check out 185C, taught by different professors each semester on topics that they choose to teach. Since you seem to like the game development courses, Finder teaches a section of 185C called "Game Engines," in which he teaches Unity. Unfortunately, he is not teaching it this semester.
+
+[Current Sem](http://www.sjsu.edu/cs/docs/spring2017/)  
+[Prev Sem](http://www.sjsu.edu/cs/docs/fall2016/)
+
+    [REPLY | u/APatheticPoetic | score 1]
+    That definitely sounds interesting.  I don't see this course in the accepted electives for graduation, is that so?
+
+        [REPLY | u/rayjing | score 1]
+        I'm not too sure about this, but in [these] (http://www.sjsu.edu/cs/programs/bs_computer_science/2016-17_requirements/index.html) requirements it shows 185c is a valid elective. I also took 185c last semester and it counted in my advising report. But to be sure, I would probably just ask an advisor or Rula
+
+            [REPLY | u/APatheticPoetic | score 1]
+            Hmm that's weird.  Well, I'll definitely have to ask about it, but if I have extra time, I'll probably just take it for the hell of it.
