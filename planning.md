@@ -82,13 +82,18 @@ All sources are real r/SJSU threads collected via the PullPush.io Reddit archive
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
+**DRAFT — to be finalized in Milestone 2.** All 6 candidates below passed a corpus coverage check: for each question, grep across `documents/*.txt` confirmed ≥2 distinct supporting passages (supporting files noted per row).
+
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about Professor Adel Atta? | Strongly negative: students warn to "really think twice" before registering for his classes and document negative Rate My Professor reviews being removed; a CS 147 student adds "was pretty easy but I took it with Atta (disclaimer)". (`2ljx6r.txt`, `2u15xl.txt`) |
+| 2 | According to students, how does CS 146 differ from CS 46B? | CS 146 is "more on the science side": more math/theory, more data structures, and a much harder textbook (CLRS); content overlaps 46B but goes deeper. (`3xmqve.txt`, `btavob.txt`) |
+| 3 | Which upper-division CS courses do students rank as the hardest? | Students rank the upper-division set (146/147/149/151) with CS 146 and CS 147/149 discussed among the hardest — "hard but curved" — with instructor context (Yeung, Atta, Mak). (`2u15xl.txt`, `37amxl.txt`) |
+| 4 | What do students say about taking CS 157A with Professor Ezzat? | Mixed-to-negative: the OP reports "most people I got to ask weren't positive about him"; commenters give survival tips on his homework, tests, and grading, and compare him to Suneuy Kim. (`94eap5.txt`, `2u15xl.txt`) |
+| 5 | Which professors or courses do students explicitly say to avoid? | "DONT TAKE 187 WITH GAO" (CmpE 187); warnings about Adel Atta; the Spartan's Guide lists CS professors to take vs avoid. (`1bwuij.txt`, `2ljx6r.txt`, `kighem.txt`) |
+| 6 | What GE classes do students recommend as easy or worthwhile? | AAS 33A/B with Professor Do ("it was easy... do not read his RMP reviews"), AMS-1A/1B (knocks out many areas at once), and Chem 30A over Chem 1A ("real easy, half is high-school review"). (`nzwxu4.txt`) |
+
+**Hard-question earmark (for M2):** the corpus contains nested-reply context-loss cases — e.g. in `kighem.txt` a reply says "his class is easier than most bc he is a good professor" while the professor is named only in the parent comment. One of the five final questions will be designated around this failure mode in Milestone 2.
 
 ---
 
