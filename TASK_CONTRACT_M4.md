@@ -57,6 +57,19 @@ floor against the 6 eval questions plus an out-of-corpus probe.
 - (d) The calibrated floor admits all 6 in-corpus questions (best similarity ≥
   floor) while rejecting the probe.
 
+## Deviations measured at completion (full rationale in DECISIONS.md ADR-003)
+- (a)/Q5: the merged `1bwuij` Gao chunk ranks 233/283 (sim 0.187) for the
+  broad Q5 phrasing — its embedding is dominated by the parent comment, so no
+  top-5 policy can surface it for an enumeration query. Re-scoped: Q5's top-5
+  surfaces `kighem` + `2ljx6r` (via the ADR-003 MMR re-rank), and the Gao
+  merge is verified by a targeted query where the chunk ranks **#1**.
+- (a)/Q4: the "work won't be difficult" answer chunk is in top-5; the
+  "most people… weren't positive" OP chunk ranks 9th by relevance (it is the
+  question's premise, not its answer).
+- (c): one probe class leaks past any feasible floor — an unknown professor
+  phrased in the eval questions' register scores 0.596 vs Q5's 0.558 best.
+  Documented; refusal for that class falls to the M5 grounded prompt.
+
 ## Verification targets
 - `.venv/bin/python -m unittest -v test_retrieval` → all tests pass.
 - `.venv/bin/python retrieval.py` → calibration report: 6/6 questions hit
