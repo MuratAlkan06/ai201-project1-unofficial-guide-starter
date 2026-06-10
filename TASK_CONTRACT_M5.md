@@ -84,3 +84,26 @@ The floor-gate half of (c) and the unit suite are verified now (no API).
 - Final submission phase: README.md (Domain → AI Usage), Evaluation Report
   table from the live `generation.py` run, failure-case analysis (candidates
   already documented: ADR-003 deviations, the M4 leak class).
+
+## Amendment (2026-06-10)
+Acceptance criterion **(b)** — the CS 146 contradiction question must report
+both sides ("tough" vs "146 got easier... Taylor didn't teach it") — is
+**waived** for M5 acceptance per user decision (2026-06-10).
+
+**Verified root cause.** Live verification proved neither side reaches the LLM
+context. The two halves of the contradiction live in different chunks of thread
+`2u15xl`: the "pretty tough" assessment (comment `co57ff2`) and the "146 got
+easier... Taylor didn't teach it" assessment (comment `co4alo2`) never co-occur
+in any query's top-5 retrieval, so the model never sees both at once. The model
+behaved correctly — it answered from what it was given and did not fabricate the
+missing side.
+
+The fix would require re-chunking or retrieval/top_k/MMR tuning, which is
+explicitly **barred by M5 scope** ("Any change to `ingest.py` / `retrieval.py`
+behavior, floor, or chunking" is out of scope). Rather than alter frozen
+retrieval, criterion (b) is **reclassified as the documented failure case for
+the M6 evaluation report** — an honest, pipeline-specific example of the
+"chunks that split key information across boundaries" risk named in
+planning.md's Anticipated Challenges. Recorded as ADR-005.
+
+This amendment is appended only; the original contract above is unchanged.
