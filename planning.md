@@ -148,6 +148,22 @@ of perspectives (often across multiple threads) while keeping the generation con
 focused and grounded. k stays a one-line constant so it can be re-tuned during
 evaluation.
 
+**Diversity re-rank (added at M4, ADR-003):** measurement showed plain cosine
+top-5 returns single-thread monocultures — for the "avoid" eval question the
+top 4 hits were sibling replies from one thread subtree, pushing the actual
+supporting chunks to ranks 6–7. Since that defeats the k=5 rationale above,
+`retrieve()` over-fetches 50 candidates and applies a greedy MMR re-rank
+(λ=0.7); the first slot is always the single most-similar chunk, so the
+refusal-floor gate behaves exactly as in plain top-k. The floor itself
+calibrated to **0.52**: the out-of-corpus probe "Professor Smith CS 999" peaks
+at 0.479 while the weakest in-corpus eval question peaks at 0.558. One
+measured limitation: an unknown professor asked in the eval questions' exact
+register scores 0.596 — above any floor that still admits the in-corpus
+questions — so refusing those queries falls to the grounded generation prompt
+at Milestone 5. A trial of `bge-small-en-v1.5` (per ADR-001's revisit trigger)
+improved passage ranking but collapsed the floor separation to 0.005 and was
+rejected; details in `DECISIONS.md`.
+
 **Production tradeoff reflection:** With real users and no cost constraint, I would
 weigh factors that don't matter at a few-hundred-chunk course scale. I'd test a
 retrieval-tuned or larger model (`bge-small-en-v1.5`, `bge-large`, `all-mpnet-base-v2`)
@@ -267,7 +283,7 @@ flowchart TD
     subgraph S4["4 · Retrieval"]
         Q["User query"]
         QE["Embed query<br/>(all-MiniLM-L6-v2)"]
-        R["Similarity search<br/>top_k=5 (tunable) · cosine"]
+        R["Similarity search<br/>top_k=5 (tunable) · cosine ·<br/>MMR diversity re-rank (λ=0.7)"]
         F{"Best similarity<br/>≥ floor?"}
         Q --> QE --> R
         V --> R --> F
@@ -289,8 +305,9 @@ Stage-to-tool mapping: **(1)** custom Python parser for the `documents/*.txt`
 format; **(2)** custom comment-aware chunker (Chunking Strategy above);
 **(3)** `sentence-transformers` / `all-MiniLM-L6-v2` → ChromaDB persistent
 collection created with `hnsw:space="cosine"`; **(4)** ChromaDB cosine
-similarity at `top_k=5` with a minimum-similarity **refusal floor** as the
-decision point; **(5)** Groq API for generation. Header fields flow as
+similarity at `top_k=5` with an MMR diversity re-rank (ADR-003) and a
+minimum-similarity **refusal floor** (calibrated 0.52) as the decision point;
+**(5)** Groq API for generation. Header fields flow as
 **metadata only** (dashed lines) and are reattached at retrieval so every
 answer can cite its source URL — they are never embedded.
 
