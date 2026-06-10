@@ -291,7 +291,7 @@ flowchart TD
 
     subgraph S5["5 · Generation"]
         REF["Refuse:<br/>'the corpus doesn't<br/>cover this'"]
-        G["Groq API (groq==0.15.0)<br/>prompt: answer ONLY from chunks ·<br/>surface disagreement, don't resolve ·<br/>cite source URL(s)"]
+        G["Groq API (groq==0.15.0)<br/>prompt: answer ONLY from chunks ·<br/>surface disagreement, don't resolve ·<br/>cite excerpts as [n]"]
         ANS["Answer + cited URL(s)"]
         F -->|no| REF
         F -->|yes| G
@@ -308,8 +308,10 @@ collection created with `hnsw:space="cosine"`; **(4)** ChromaDB cosine
 similarity at `top_k=5` with an MMR diversity re-rank (ADR-003) and a
 minimum-similarity **refusal floor** (calibrated 0.52) as the decision point;
 **(5)** Groq API for generation. Header fields flow as
-**metadata only** (dashed lines) and are reattached at retrieval so every
-answer can cite its source URL — they are never embedded.
+**metadata only** (dashed lines) and are reattached at retrieval; the model
+cites excerpts as `[n]` and those numbers are mapped programmatically back to
+each chunk's source URL from the retrieved metadata (ADR-004), so a cited URL
+is always one the retriever actually returned — they are never embedded.
 
 ---
 
@@ -372,14 +374,21 @@ answer can cite its source URL — they are never embedded.
 - **Input:** the **Architecture** stage 5 spec, ADR-001 addendum (refusal
   floor, cite URLs), the **Anticipated Challenges** contradiction policy
   (surface disagreement, don't resolve), and M4's retrieved chunks + metadata.
-- **Expected output:** a generation function that passes the k chunks + their
-  source URLs to the Groq LLM with a prompt that (i) answers only from
-  retrieved chunks, (ii) surfaces disagreement, (iii) cites URL(s), and (iv)
-  defers to refusal when the floor gate fired; plus a minimal query UI.
+- **Expected output:** a generation function that passes the k numbered chunks
+  to the Groq LLM with a prompt that (i) answers only from retrieved chunks,
+  (ii) surfaces disagreement, (iii) cites excerpts as `[n]` — the numbers are
+  mapped programmatically back to the retrieved chunks' source URLs (ADR-004),
+  so the model never writes a URL — and (iv) defers to refusal when the floor
+  gate fired; plus a minimal query UI.
 - **Verification (concrete):** (a) spot-check ≥3 answers — each cited URL's file
   actually contains the claim (e.g. Q1 Atta answer cites `2ljx6r.txt`'s URL and
   that thread documents the removed reviews); (b) a question with conflicting
   evidence (e.g. CS 146 difficulty: `2u15xl.txt` "tough" vs "146 got easier...
   Taylor didn't teach it") yields an answer that **reports both** rather than
-  picking one; (c) the out-of-corpus probe from M4 returns the refusal string,
-  not a fabricated professor summary.
+  picking one — **now a known, documented failure case (ADR-005):** the two
+  halves live in different `2u15xl` chunks (comments `co57ff2` and `co4alo2`)
+  that never co-retrieve in top-5, so neither side reaches the model and only
+  one is reported; waived for M5 and carried into the M6 evaluation report as
+  an honest "chunks split across boundaries that don't co-retrieve" example;
+  (c) the out-of-corpus probe from M4 returns the refusal string, not a
+  fabricated professor summary.
