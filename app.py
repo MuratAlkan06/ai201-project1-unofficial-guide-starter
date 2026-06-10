@@ -28,12 +28,26 @@ def ask(query: str) -> tuple[str, str]:
     if out["sources"]:
         answer_md += "\n\n**Sources**\n" + generation.format_sources_md(out["sources"])
 
-    chunks_md = "\n\n".join(
+    chunks_md = format_chunks_md(out)
+    return answer_md, chunks_md
+
+
+# Note shown in the excerpts accordion when the answer refused. On refusal the
+# retrieved chunks fell below the relevance floor (or the grounded prompt
+# rejected them), so they did NOT ground any answer; rendering them under
+# "what the answer is grounded in" would misrepresent the refusal.
+NO_EXCERPTS_NOTE = "No excerpts cleared the relevance floor for this question."
+
+
+def format_chunks_md(out: dict) -> str:
+    """Accordion markdown for the retrieved excerpts; empty of chunks on refusal."""
+    if out["refused"]:
+        return NO_EXCERPTS_NOTE
+    return "\n\n".join(
         f"**[{n}]** `{r['metadata']['post_id']}` — similarity {r['similarity']:.3f}\n\n"
         f"> {r['text'].replace(chr(10), chr(10) + '> ')}"
         for n, r in enumerate(out["results"], 1)
     )
-    return answer_md, chunks_md
 
 
 with gr.Blocks(title="The Unofficial Guide — r/SJSU CS courses & professors") as demo:

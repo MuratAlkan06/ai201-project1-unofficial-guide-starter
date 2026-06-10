@@ -131,5 +131,52 @@ class TestRefusalMessage(unittest.TestCase):
         self.assertIn("the corpus doesn't cover this", generation.REFUSAL_MESSAGE)
 
 
+class TestRefusalSuppressesExcerptDisplay(unittest.TestCase):
+    """UI must not render below-floor chunks as grounding when the answer refused.
+
+    The floor-gate refusal still returns `results` (the below-floor chunks the
+    retriever fetched), but the accordion is labeled "what the answer is
+    grounded in" — showing those chunks would misrepresent a refusal. The
+    presentation fix lives in `app.format_chunks_md`, not in the generation
+    return contract, so `out["results"]` is intentionally left intact for the
+    `__main__` report and existing tests.
+    """
+
+    def test_refusal_path_renders_no_chunk_text(self):
+        import app  # imported here so the module-level Groq stub guards every path
+
+        stub = mock.Mock()
+        with mock.patch.object(generation, "_complete", stub):
+            out = generation.generate_answer(OFF_DOMAIN_QUERY, collection=_collection)
+        stub.assert_not_called()  # floor gate refused before any API call
+        self.assertTrue(out["refused"])
+        self.assertTrue(out["results"])  # contract still returns the below-floor chunks
+
+        chunks_md = app.format_chunks_md(out)
+
+        self.assertEqual(chunks_md, app.NO_EXCERPTS_NOTE)
+        for r in out["results"]:
+            self.assertNotIn(r["text"], chunks_md)
+            self.assertNotIn(r["metadata"]["post_id"], chunks_md)
+
+    def test_answer_path_still_renders_numbered_chunks(self):
+        import app
+
+        stub = mock.Mock(return_value="Students warn about him [1][2].")
+        with mock.patch.object(generation, "_complete", stub):
+            out = generation.generate_answer(IN_CORPUS_QUERY, collection=_collection)
+        self.assertFalse(out["refused"])
+
+        chunks_md = app.format_chunks_md(out)
+
+        self.assertNotEqual(chunks_md, app.NO_EXCERPTS_NOTE)
+        for n, r in enumerate(out["results"], 1):
+            self.assertIn(f"**[{n}]**", chunks_md)
+            self.assertIn(r["metadata"]["post_id"], chunks_md)
+            # text is rendered as a blockquote (each line prefixed "> "), so
+            # match its first line rather than the raw multi-line string.
+            self.assertIn(r["text"].splitlines()[0], chunks_md)
+
+
 if __name__ == "__main__":
     unittest.main()
